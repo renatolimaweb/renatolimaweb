@@ -6,6 +6,14 @@
 <img height='200px' src="https://github-readme-stats.vercel.app/api?username=renatolimaweb&show_icons=true&theme=dracula" />
 <img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolimaweb&layout=compact&langs_count=15&theme=dracula" />
 </div>
+<br>
+<ul>
+  <li>:man_technologist: &nbsp; Especialista Front-end</li>
+  <li>:rocket: &nbsp; Especialista UX/UI</li>
+  <li>:gear: &nbsp; Back-End PHP</li>
+  <li>:hammer_and_wrench: &nbsp; Especialista em WordPress</li>
+  <li>:shopping: &nbsp; Especialista WooCommerce & Liquid Shopify</li>
+</ul>
 
 <h2 align="left">Linguagens, Frameworks e Tecnologias</h2>
 
