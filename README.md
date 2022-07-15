@@ -10,19 +10,19 @@
 <h2 align="left">Linguagens, Frameworks e Tecnologias</h2>
 
 <div style="display: inline_block">
-  <img align="center" alt="Wes-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Wes-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Wes-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Wes-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wes-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wes-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wes-Ts" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Wes-Angular" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Wes-Angular" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Wes-Docker" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="Wes-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
-  <img align="center" alt="Wes-Docker" height="25" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/elementor.svg">
-  <img align="center" alt="Wes-Docker" height="45" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg">
+  <img align="center" alt="PHP" title="PHP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" align="Docker" alt="Docker" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" align="HTML" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" align="CSS" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" align="JavaScript" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" align="TypeScript" alt="TypeScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" align="Bootstrap" alt="Bootstrap" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" align="Angular" alt="Angular" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" align="WordPress" alt="WordPress" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+  <img align="center" align="WooCommerce" alt="WooCommerce" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
+  <img align="center" align="Elementor" alt="Elementor" height="25" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/elementor.svg">
+  <img align="center" align="Liquid Shopify" alt="Liquid Shopify" height="45" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg">
 </div>
 <h2 align="left">Ferramentas (Tools), sistemas operacionais</h2>
 
@@ -54,7 +54,7 @@
   
   <h2 align="left">Siga</h2>
   <div>
-  <a href="https://www.behance.net/renatolima19" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/renatolima19" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
   <a href="Renato Lima#1443" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/wes_ev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "renatolimaweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
