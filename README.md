@@ -1,5 +1,4 @@
-<h1><img id="adrian-rabelo-title" width=40 src="https://slackmojis.com/emojis/48489-a_hangloose/download"> Olá, me chamo Renato Lima</h1>
-<h4>Seja bem-vindo ao meu Multiverso</h4>
+<h1><img id="adrian-rabelo-title" width=40 src="https://slackmojis.com/emojis/48489-a_hangloose/download"> Bem-vindo ao meu Multiverso</h1>
 
 <h2>Painel (Dashboard)</h2>
 <div>
