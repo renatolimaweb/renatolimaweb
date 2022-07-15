@@ -2,8 +2,8 @@
 
 
 <div>
-<img height='240px' src="https://github-readme-stats.vercel.app/api?username=renatolimaweb&show_icons=true&theme=dracula" />
-<img height='240px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolimaweb&layout=compact&langs_count=15&theme=dracula" />
+<img width="50%" height='240px' src="https://github-readme-stats.vercel.app/api?username=renatolimaweb&show_icons=true&theme=dracula" />
+<img width="50%" height='240px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolimaweb&layout=compact&langs_count=15&theme=dracula" />
 </div>
 
 <div align="center">
