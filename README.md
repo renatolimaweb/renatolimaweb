@@ -42,11 +42,8 @@
   <img align="center" title="VSCode" alt="VSCode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" title="Visual Studio" alt="Visual Studio" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" title="Sublime" alt="Sublime" height="35" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/sublime-text.svg">
- 
-  
   <img align="center" title="Figma" alt="Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" title="Adobe XD" alt="Adobe XD" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
-  
   <img align="center" title="Photoshop" alt="Photoshop" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" title="illustrator" alt="illustrator" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
   <img align="center" title="After Effects" alt="After Effects" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">
@@ -57,7 +54,6 @@
   
   <img align="center" title="Windows" alt="Windows" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" title="Linux Ubuntu" alt="Linux Ubuntu" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" title="Mac OS" alt="Mac OS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 </div>
   
   
