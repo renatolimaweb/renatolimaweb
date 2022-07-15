@@ -35,9 +35,10 @@
 <h2 align="left">Ferramentas (Tools), sistemas operacionais</h2>
 
 <div style="display: inline_block;">
-
-  <img align="center" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg">
+  
   <img align="center" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg">
+  <img align="center" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg">
+  <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" height="35" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/sublime-text.svg">
@@ -64,7 +65,7 @@
   <div>
   <a href="https://www.behance.net/renatolima19" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
   <a href="Renato Lima#1443" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/wes_ev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/renatolimaweb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "renatolimaweb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatolimaweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
