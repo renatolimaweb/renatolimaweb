@@ -46,7 +46,7 @@
   <img align="center" title="illustrator" alt="illustrator" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/illustrator-plain.svg">
   <img align="center" title="After Effects" alt="After Effects" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/aftereffects-plain.svg">
   <img align="center" title="Premiere" alt="Premiere" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/premierepro-plain.svg">
-  <img align="center" title="Jira" alt="Jira" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" title="Jira" alt="Jira" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/jira-seeklogo.com_.svg">
   <img align="center" title="Trello" alt="Trello" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/trello-plain.svg">
   <img align="center" title="Slack" alt="Slack" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/slack-original.svg">
   
