@@ -41,7 +41,7 @@
   <img align="center" title="JetBrains" alt="JetBrains" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg">
   <img align="center" title="VSCode" alt="VSCode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" title="Visual Studio" alt="Visual Studio" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" title="Sublime" alt="Sublime" height="35" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/sublime-text.svg">
+  <img align="center" title="Sublime" alt="Sublime" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/sublime-text.svg">
   <img align="center" title="Figma" alt="Figma" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/figma-original.svg">
   <img align="center" title="Adobe XD" alt="Adobe XD" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
   <img align="center" title="Photoshop" alt="Photoshop" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
@@ -49,8 +49,8 @@
   <img align="center" title="After Effects" alt="After Effects" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/aftereffects-plain.svg">
   <img align="center" title="Premiere" alt="Premiere" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
   <img align="center" title="Jira" alt="Jira" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
-  <img align="center" title="Trello" alt="Trello" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-  <img align="center" title="Slack" alt="Slack" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+  <img align="center" title="Trello" alt="Trello" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/trello-plain.svg">
+  <img align="center" title="Slack" alt="Slack" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/slack-original.svg">
   
   <img align="center" title="Windows" alt="Windows" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" title="Linux Ubuntu" alt="Linux Ubuntu" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
