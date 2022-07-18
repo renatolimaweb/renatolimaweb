@@ -26,7 +26,7 @@
   <img align="center" title="JavaScript" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="TypeScript" alt="TypeScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" title="Angular" alt="Angular" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" title="Angular" alt="Angular" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/angular.svg">
   <img align="center" title="WordPress" alt="WordPress" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" title="WooCommerce" alt="WooCommerce" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
   <img align="center" title="Elementor" alt="Elementor" height="25" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/elementor.svg">
