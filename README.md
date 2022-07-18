@@ -18,7 +18,7 @@
 <h2 align="left">Linguagens, Frameworks e Tecnologias</h2>
 
 <div style="display: inline_block">
-  <img align="center" alt="PHP" title="PHP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="PHP" title="PHP" height="45" width="55" src="http://neerd.com.br/wp-content/uploads/2022/07/php.svg">
   <img align="center" alt="MySQL" title="MySQL" height="25" width="30" src="http://neerd.com.br/wp-content/uploads/2022/07/mysql.svg">
   <img align="center" title="Docker" alt="Docker" title="MySQL" height="30" width="40" src="http://neerd.com.br/wp-content/uploads/2022/07/docker2.svg">
   <img align="center" title="HTML" alt="HTML" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/html5-original.svg">
