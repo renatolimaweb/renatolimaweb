@@ -30,7 +30,7 @@
   <img align="center" title="WordPress" alt="WordPress" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" title="WooCommerce" alt="WooCommerce" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
   <img align="center" title="Elementor" alt="Elementor" height="25" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/elementor.svg">
-  <img align="center" title="Liquid Shopify" alt="Liquid Shopify" height="45" src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg">
+  <img align="center" title="Liquid Shopify" alt="Liquid Shopify" height="45" src="http://neerd.com.br/wp-content/uploads/2022/07/liquid-shopify.svg">
 </div>
 <h2 align="left">Ferramentas (Tools), sistemas operacionais</h2>
 
