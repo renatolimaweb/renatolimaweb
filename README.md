@@ -23,12 +23,12 @@
   <img align="center" title="Docker" alt="Docker" title="MySQL" height="30" width="40" src="http://neerd.com.br/wp-content/uploads/2022/07/docker2.svg">
   <img align="center" title="HTML" alt="HTML" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="JavaScript" alt="JavaScript" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/javascript-plain.svg">
+  <img align="center" title="JavaScript" alt="JavaScript" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/javascript-plain2.svg">
   <img align="center" title="TypeScript" alt="TypeScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" title="Angular" alt="Angular" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/angular.svg">
   <img align="center" title="WordPress" alt="WordPress" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" title="WooCommerce" alt="WooCommerce" height="40" width="50" src="http://neerd.com.br/wp-content/uploads/2022/07/woocommerce-plain.svg">
+  <img align="center" title="WooCommerce" alt="WooCommerce" height="40" width="50" src="http://neerd.com.br/wp-content/uploads/2022/07/woocommerce-plain2.svg">
   <img align="center" title="Elementor" alt="Elementor" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/elementor.svg">
   <img align="center" title="Liquid Shopify" alt="Liquid Shopify" height="45" src="http://neerd.com.br/wp-content/uploads/2022/07/liquid-shopify2.svg">
 </div>
