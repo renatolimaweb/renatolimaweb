@@ -52,7 +52,7 @@
   <img align="center" title="Slack" alt="Slack" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/slack-original.svg">
   
   <img align="center" title="Windows" alt="Windows" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/windows8-original.svg">
-  <img align="center" title="Linux Ubuntu" alt="Linux Ubuntu" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" title="Linux Ubuntu" alt="Linux Ubuntu" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/UbuntuCoF.svg">
 </div>
   
   
