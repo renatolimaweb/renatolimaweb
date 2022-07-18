@@ -42,11 +42,11 @@
   <img align="center" title="VSCode" alt="VSCode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" title="Visual Studio" alt="Visual Studio" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" title="Sublime" alt="Sublime" height="35" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/sublime-text.svg">
-  <img align="center" title="Figma" alt="Figma" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/aftereffects-plain.svg">
+  <img align="center" title="Figma" alt="Figma" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/figma-original.svg">
   <img align="center" title="Adobe XD" alt="Adobe XD" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg">
   <img align="center" title="Photoshop" alt="Photoshop" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" title="illustrator" alt="illustrator" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-  <img align="center" title="After Effects" alt="After Effects" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg">
+  <img align="center" title="After Effects" alt="After Effects" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/aftereffects-plain.svg">
   <img align="center" title="Premiere" alt="Premiere" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg">
   <img align="center" title="Jira" alt="Jira" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
   <img align="center" title="Trello" alt="Trello" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
