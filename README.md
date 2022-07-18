@@ -24,7 +24,7 @@
   <img align="center" title="HTML" alt="HTML" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="JavaScript" alt="JavaScript" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/javascript-plain2.svg">
-  <img align="center" title="TypeScript" alt="TypeScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" title="TypeScript" alt="TypeScript" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/TypeScript-logo.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/bootstrap-4.svg">
   <img align="center" title="Angular" alt="Angular" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/angular.svg">
   <img align="center" title="WordPress" alt="WordPress" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/Wordpress-Logo.svg">
