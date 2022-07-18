@@ -20,7 +20,7 @@
 <div style="display: inline_block">
   <img align="center" alt="PHP" title="PHP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="MySQL" title="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" title="Docker" alt="Docker" title="MySQL" height="30" width="40" src="http://neerd.com.br/wp-content/uploads/2022/07/docker.svg">
+  <img align="center" title="Docker" alt="Docker" title="MySQL" height="30" width="40" src="http://neerd.com.br/wp-content/uploads/2022/07/docker2.svg">
   <img align="center" title="HTML" alt="HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="JavaScript" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +30,7 @@
   <img align="center" title="WordPress" alt="WordPress" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" title="WooCommerce" alt="WooCommerce" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain.svg">
   <img align="center" title="Elementor" alt="Elementor" height="25" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/elementor.svg">
-  <img align="center" title="Liquid Shopify" alt="Liquid Shopify" height="45" src="http://neerd.com.br/wp-content/uploads/2022/07/liquid-shopify.svg">
+  <img align="center" title="Liquid Shopify" alt="Liquid Shopify" height="45" src="http://neerd.com.br/wp-content/uploads/2022/07/liquid-shopify2.svg">
 </div>
 <h2 align="left">Ferramentas (Tools), sistemas operacionais</h2>
 
