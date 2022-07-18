@@ -39,7 +39,7 @@
   <img align="center" title="WebStorm" alt="WebStorm" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/WebStorm_Icon.svg">
   <img align="center" title="PhpStorm" alt="PhpStorm" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/PhpStorm_Icon.svg">
   <img align="center" title="VSCode" alt="VSCode" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/visualstudio-plain.svg">
-  <img align="center" title="Sublime" alt="Sublime" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/sublime-text.svg">
+  <img align="center" title="Sublime" alt="Sublime" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/sublime-text2.svg">
   <img align="center" title="Figma" alt="Figma" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/figma-original.svg">
   <img align="center" title="Adobe XD" alt="Adobe XD" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/xd-plain.svg">
   <img align="center" title="Photoshop" alt="Photoshop" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/photoshop-plain.svg">
