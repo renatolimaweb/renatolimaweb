@@ -22,7 +22,7 @@
   <img align="center" alt="MySQL" title="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" title="Docker" alt="Docker" title="MySQL" height="30" width="40" src="http://neerd.com.br/wp-content/uploads/2022/07/docker2.svg">
   <img align="center" title="HTML" alt="HTML" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/html5-original.svg">
-  <img align="center" title="CSS" alt="CSS" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/logo-css3-white.svg">
+  <img align="center" title="CSS" alt="CSS" height="30" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/logo-css3-white.svg">
   <img align="center" title="JavaScript" alt="JavaScript" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/javascript-plain2.svg">
   <img align="center" title="TypeScript" alt="TypeScript" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/TypeScript-logo.svg">
   <img align="center" title="Bootstrap" alt="Bootstrap" height="25" width="35" src="http://neerd.com.br/wp-content/uploads/2022/07/bootstrap-4.svg">
