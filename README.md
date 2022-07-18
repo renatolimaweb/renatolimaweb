@@ -4,7 +4,7 @@
 <h2>Painel (Dashboard)</h2>
 <div>
 <img height='200px' src="https://github-readme-stats.vercel.app/api?username=renatolimaweb&show_icons=true&theme=highcontrast" />
-<img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolimaweb&layout=compact&langs_count=15&theme=highcontrast" />
+<img height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolimaweb&layout=compact&langs_count=20&theme=highcontrast" />
 </div>
 <br>
 <ul>
