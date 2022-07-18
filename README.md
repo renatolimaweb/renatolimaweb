@@ -36,9 +36,8 @@
 
 <div style="display: inline_block;">
   
-  <img align="center" title="WebStorm" alt="WebStorm" height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg">
+  <img align="center" title="WebStorm" alt="WebStorm" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/WebStorm_Icon.svg">
   <img align="center" title="PhpStorm" alt="PhpStorm" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/PhpStorm_Icon.svg">
-  <img align="center" title="JetBrains" alt="JetBrains" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg">
   <img align="center" title="VSCode" alt="VSCode" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/visualstudio-plain.svg">
   <img align="center" title="Sublime" alt="Sublime" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/sublime-text.svg">
   <img align="center" title="Figma" alt="Figma" height="35" width="45" src="http://neerd.com.br/wp-content/uploads/2022/07/figma-original.svg">
